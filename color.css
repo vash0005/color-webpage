@@ -1,0 +1,50 @@
+nav, a, header{
+            padding: 1.5rem;
+        }
+        nav{
+            background-color:royalblue;
+            border-bottom:2rem solid hsl(120deg,100%,100%);
+            border-bottom-color: black;
+            }
+        nav>a{
+            color:white
+        }
+        header{
+            background-size: cover;
+            background-image:url(354.jpeg);
+            background-repeat: no-repeat;
+            height: 500px;
+        }
+        #name{
+            padding-left: 1rem;
+            padding-right: 1rem;
+        }
+        header>h2{
+            color: gray;
+        }
+        header>h1{
+            color: black
+        }
+        h1{
+            padding-left: 1rem;
+            padding-right: 1rem;
+        }
+        h2{
+            padding-left: 2rem;
+            padding-right: 2rem;
+            color: hsl(220deg,100%,50%);
+        }
+        p{
+            padding-left: 2rem;
+            padding-right: 2rem;
+            line-height: 1.5rem;
+            font-size: 1rem;
+        }
+        ul{
+            padding-left: 3rem;
+            padding-right: 3rem;
+        }
+        li{
+            font-size: 1rem;
+        }
+            
